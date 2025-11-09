@@ -37,5 +37,7 @@ pip install PyAudio
 voice-assistant/
 │
 ├── assistant.py        # Main Python program
-└── README.md           # Project documentation
+├── README.md           # Project documentation
+└── requirements.txt    # Dependencies list
+
 ```
